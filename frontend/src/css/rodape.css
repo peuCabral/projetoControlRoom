@@ -1,0 +1,41 @@
+.footer {
+    background-color: #1976d2;
+    padding: 10px;
+    height: 80px;
+}
+
+a.contato {
+    color: white;
+    font-size: 0.9rem;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+a.contato :hover {
+    color: white;
+}
+
+h6.MuiTypography-h6 {
+    text-align: left;
+    padding-left: 10px;
+}
+
+p.MuiTypography-colorTextSecondary {
+    color: white;
+}
+
+.copyright p,
+a {
+    align-items: left;
+    align-items: left;
+}
+
+a {
+    text-align: right;
+    padding-right: 14px;
+}
+
+a :hover {
+    color: white;
+}
+
